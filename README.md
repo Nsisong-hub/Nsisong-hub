@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## About Me 🚀
 
-I'm a passionate IT Professional with strong foundation in **Computer/Network Engineering**  experienced in Network/Linux system Administration and currently transitoning Cloud/Devops. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate IT Professional with strong foundation in **Computer/Network Engineering**, experienced in Network/Linux system Administration and currently transitoning Cloud/Devops. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Cloud/Devops**
 - 🔭 Working on: **Terraform Web-scraper**
@@ -44,7 +44,7 @@ I'm a passionate IT Professional with strong foundation in **Computer/Network En
 
 ### [Terraform-web-scraper](https://github.com/Nsisong-hub/terraform-web-scraper.git)
 
-**Terraform web scraper** is a **scalable web scraping solution** built with **Terraform python and AWS services**. This project demonstrates my ability to **Infrastructure as a code IaC, AWS, Python and Git/Github**. You can check out the repository [here](https://github.com/Nsisong-hub/terraform-web-scraper.git).
+**Terraform web scraper** is a **scalable web scraping solution** built with **Terraform python and AWS services**. This project demonstrates my ability in **Infrastructure as a code IaC, AWS, Python and Git/Github**. You can check out the repository [here](https://github.com/Nsisong-hub/terraform-web-scraper.git).
 <!--
 ### [Project 2 Title](project_2_link)
 
