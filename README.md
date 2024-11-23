@@ -57,12 +57,11 @@ I'm a passionate IT Professional with strong foundation in **Computer/Network En
 ## Get in Touch 📬
 
 <!-- - **[Personal Website / Blog]**(your_website_or_blog_link)
--->
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) https://dev.to/nsisong_etim_bb31e7ddca64
-- **[LinkedIn]** https://www.linkedin.com/in/nsisong-etim-64589126a
-<!-- **[Twitter]**(your_twitter_profile_link)
 -->
 
+- **[LinkedIn]** https://www.linkedin.com/in/nsisong-etim-64589126a
+<!-- **[Twitter]**(your_twitter_profile_link)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Nsisong-hub&show_icons=true&theme=dark"
@@ -74,3 +73,4 @@ I'm a passionate IT Professional with strong foundation in **Computer/Network En
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+-->
