@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 I'm a passionate IT Professional with strong foundation in **Computer/Network Engineering**  experienced in Network/Linux system Administration and currently transitoning Cloud/Devops. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: Jenkins
-- 🔭 Working on: Terraform Web-scraper
+- 🌱 Currently learning: **Cloud/Devops**
+- 🔭 Working on: **Terraform Web-scraper**
 - 🌍 Languages: **Python, Bash and English**
 - 📫 How to reach me: **nsisetim94@gmail.com**
 - ⚡ Fun fact: **I am unstoppable**
